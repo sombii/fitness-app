@@ -13,7 +13,7 @@ export default function HeroBanner() {
             <Typography fontSize={"22px"} lineHeight="35px" mb={4}>
                 Check out the most effective exercises.
             </Typography>
-            <Button variant="contained" href="#exercises"
+            <Button variant="contained" href="#exercises" color="error"
                     sx={{backgroundColor: "#ff2625", padding: "10px 15px"}}>
                 EXPLORE EXERCISES
             </Button>
